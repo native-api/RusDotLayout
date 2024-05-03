@@ -29,7 +29,7 @@ with [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microso
   * Раздел "Раскладки клавиатуры" -> в списке удалить все раскладки, кроме "Russian -- Keypad Dot"
 * Windows 7:
   * Win+R -> ввести "intl.cpl" -> ENTER -> Настройки клавиатуры...
-  * В появившемся окне в списке для русского удалить все раскладки, кроме "Russian -- Keypad Dot"
+  * В появившемся окне в списке для русского языка удалить все раскладки, кроме "Russian -- Keypad Dot"
 
 ---
 
