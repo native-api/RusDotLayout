@@ -1,7 +1,7 @@
-Установочный пакет в [релизах](https://github.com/native-api/RusDotLayout/releases).
+Установочный пакет в [релизах](https://github.com/native-api/RusDotLayout/releases).  
 После установки зайдите в настройки клавиатуры (см. ниже) и для русского языка удалите все раскладки, кроме "Russian -- Keypad Dot".
 
-Download the installation package in [releases](https://github.com/native-api/RusDotLayout/releases).
+Download the installation package in [releases](https://github.com/native-api/RusDotLayout/releases).  
 After installation, go to the keyboard settings (see below) and delete all layouts for the Russian language except "Russian -- Keypad Dot".
 
 # RusDotLayout
