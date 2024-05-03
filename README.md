@@ -1,3 +1,7 @@
+Установочный пакет в [релизах](https://github.com/native-api/RusDotLayout/releases).
+
+Download the installation package in [releases](https://github.com/native-api/RusDotLayout/releases).
+
 # RusDotLayout
 
 Русская раскладка клавиатуры для Windows, где клавише "точка" на дополнительной клавиатуре назначена точка, а не запятая.
